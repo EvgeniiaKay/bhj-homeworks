@@ -11,3 +11,10 @@
   color: #fff;
 }
 
+.status__timer {
+  font-weight: bold;
+}
+
+.timer_expired {
+  color: red;
+}
